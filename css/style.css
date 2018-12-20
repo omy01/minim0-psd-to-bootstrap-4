@@ -1,0 +1,162 @@
+body{
+	font-family: 'Playfair Display', serif;
+	font-color:#626262;
+}
+/*header start*/
+header{
+    margin: 25px 0;
+}
+.cus-logo{
+	margin-left: 40px;
+}
+.cus-nav{
+	margin-right: 40px;
+}
+.cus-nav ul li a{
+	font-family: 'Playfair Display', serif;
+	color: #626262;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding-left: 55px !important;
+}
+.cus-nav ul li a:hover {
+	color: black;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	margin-bottom: 80px;
+}
+.banner-content{}
+.banner-content img{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+/*banner end*/
+/*perfect start*/
+.perfect{
+	margin-bottom: 80px;
+}
+.perfect-content{}
+.common_text {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 14px;
+	color: #b4ad9e;
+	font-weight:300;
+	text-transform: uppercase !important;
+}
+.common-h1{
+	/*font-weight: 400;*/
+	font-size: 30px;
+	color: #626262;
+	margin-bottom: 30px;
+}
+.pera{
+	font-family: 'Playfair Display', serif;
+	color: #484646;
+	line-height: 1.7;
+    font-size: 14px;
+    font-weight: 300;
+}
+/*perfect end*/
+/*blog start*/
+.blog{
+	margin-bottom: 80px;
+}
+.cus-blog-img{
+    margin-bottom: 30px;
+}
+/*blog end*/
+/*newslater start*/
+.newslater{
+	margin-bottom: 80px;
+	background-color: #f0f0f0;
+	padding: 100px 0;
+}
+.newslater-content h1{
+	font-size: 30px;
+	margin-bottom: 30px;
+	color: #333333;
+}
+.newslater-content form{
+	position: relative;
+	width: 356px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+
+}
+.newslater-content form input{
+	width: 300px;
+	border: none;
+	border-bottom:  1px solid black;
+	background: transparent;
+	padding: 10px 50px 5px 5px;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.newslater-content form button {
+    position: absolute;
+    top: 5px;
+    right: 20px;
+    border: none;
+    background: transparent;
+    font-size: 25px;
+    color:#626262;
+}
+.mb{
+	margin-bottom: 80px;
+}
+/*newslater end*/
+/*blog2 start*/
+.blog2{
+	margin-bottom: 80px;
+}
+/*blog2 end*/
+/*button start*/
+.button{
+	margin-bottom: 80px;
+}
+.cus-btn{
+	background: transparent;
+	border: 1px solid #626262;
+	padding: 15px 30px;
+	transition: .5s;
+	font-size: 20px;
+	color: #626262;
+}	
+.cus-btn:hover {
+	background-color: #626262;
+	color: white;
+	border: 1px solid white;
+}
+
+/*button end*/
+/*footer start*/
+footer{
+	background-color: #f0f0f0;
+	padding: 20px;
+	color: #626262;
+}
+.cus-ft-row{
+	margin-top: 20px;
+}
+.ft-content li{
+	color: black;
+}
+.ft-content li, .ft-icon i{
+	font-size: 14px;
+	transition: .5s;
+	cursor: pointer;
+}
+.ft-icon i{}
+.cus-flow{
+	color: black;
+	font-size: 14px;
+	cursor: pointer;
+}
+.ft-content ul li:hover, .ft-icon ul li i:hover {
+	color: #000000;
+}
+/*footer end*/

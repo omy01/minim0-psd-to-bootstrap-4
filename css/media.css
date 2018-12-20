@@ -1,0 +1,302 @@
+
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header start*/
+	header {
+    	margin: 5px 0;
+	}
+	.cus-logo {
+    	margin-left: 0;
+    	width: 60%;
+	}
+	.cus-nav {
+    	margin-right: 0;
+	}
+	.cus-nav ul li a {
+    	padding-left: 0 !important;
+    	font-size: 12px;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner {
+    	margin-bottom: 20px;
+	}
+	.common-h1 {
+    	font-size: 20px;
+    	margin-bottom: 16px;
+	}
+	.pera {
+    	font-size: 12px;
+	}
+	.common_text {
+    	font-size: 12px;
+	}
+	/*banner end*/
+	/*perfect start*/
+	.perfect {
+    	margin-bottom: 20px;
+	}
+	.cus-blog-img {
+    	margin-bottom: 20px;
+	}
+	/*perfect end*/
+	/*blog start*/
+	.blog {
+    	margin-bottom: 20px;
+	}
+	.mb {
+    	margin-bottom: 20px;
+	}
+	/*blog end*/
+	/*newslater start*/
+	.newslater {
+    	margin-bottom: 20px;
+    	padding: 50px 0;
+	}
+	.newslater-content h1 {
+    	font-size: 22px;
+    	margin-bottom: 15px;
+	}
+	.newslater-content form {
+    	width: 240px;
+	}
+	.newslater-content form input {
+    	width: 250px;
+    	padding: 10px 25px 5px 5px;
+    	font-size: 16px;
+    	margin-bottom: 10px;
+	}
+	.newslater-content form button {
+    	right: -16px;
+    	font-size: 20px;
+	}
+	
+	/*newslater end*/
+	/*blog2 start*/
+	.blog2 {
+    	margin-bottom: 20px;
+	}
+	/*blog2 end*/
+	/*button start*/
+	.button {
+    	margin-bottom: 20px;
+	}
+	.cus-btn {
+    	padding: 10px 20px;
+    	font-size: 14px;
+	}
+	/*button end*/
+	/*footer start*/
+	footer {
+    	/*padding: 0;*/
+    	text-align: center;
+	}
+	.cus-ft-row {
+    	margin-top: 0;
+	}
+	.ft-content li, .ft-icon i {
+    	font-size: 12px;
+	}
+	/*footer end*/
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header start*/
+	header {
+    	margin: 20px 0;
+	}
+	.cus-logo {
+    	margin-left: 0;
+    	width: 80%;
+	}
+	.cus-nav {
+    	margin-right: 0;
+	}
+	.cus-nav ul li a {
+    	padding-left: 0 !important;
+	    font-size: 14px;
+
+	}
+	/*header end*/
+	/*banner start*/
+	.banner {
+    	margin-bottom: 30px;
+	}
+	.common-h1 {
+    	font-size: 25px;
+    	margin-bottom: 20px;
+	}
+	.pera {
+    	font-size: 13px;
+	}
+	.common_text {
+    	font-size: 13px;
+	}
+	/*banner end*/
+	/*perfect start*/
+	.perfect {
+    	margin-bottom: 30px;
+	}
+	.cus-blog-img {
+    	margin-bottom: 20px;
+	}
+	/*perfect end*/
+	/*blog start*/
+	.blog {
+    	margin-bottom: 30px;
+	}
+	.mb {
+    	margin-bottom: 30px;
+	}
+	/*blog end*/
+	/*newslater start*/
+	.newslater {
+    	margin-bottom: 30px;
+    	padding: 50px 0;
+	}
+	.newslater-content h1 {
+    	font-size: 25px;
+    	margin-bottom: 18px;
+	}
+	.newslater-content form {
+    	width: 350px;
+	}
+	.newslater-content form input {
+    	width: 295px;
+    	padding: 10px 50px 5px 20px;
+    	font-size: 16px;
+	}
+	.newslater-content form button {
+    	right: 20px;
+    	font-size: 20px;
+	}
+	/*newslater end*/
+	/*blog2 start*/
+	.blog2 {
+    	margin-bottom: 30px;
+	}
+	/*blog2 end*/
+	/*button start*/
+	.button {
+    	margin-bottom: 30px;
+	}
+	.cus-btn {
+    	padding: 15px 25px;
+    	font-size: 18px;
+	}
+	/*button end*/
+	/*footer start*/
+	footer {
+    	padding: 10px;
+	}
+	.ft-icon{
+		text-align: right;
+	}
+	.cus-ft-row {
+    	margin-top: 12px;
+	}
+	/*footer end*/
+	
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header start*/
+	.cus-logo {
+    	margin-left: 0;
+    	width: 90%;
+	}
+	.cus-nav {
+    	margin-right: 0;
+	}
+	.cus-nav ul li a {
+    	padding-left: 0 !important;
+    	font-size: 15px;
+	}
+	/*header end*/
+	/*banner start*/
+	.banner {
+    	margin-bottom: 40px;
+	}
+	/*banner end*/
+	/*perfect start*/
+	.perfect {
+    	margin-bottom: 40px;
+	}
+	.common-h1 {
+    	font-size: 28px;
+	}
+	/*perfect end*/
+	/*blog start*/
+	.blog {
+    	margin-bottom: 40px;
+	}
+	.newslater {
+    	margin-bottom: 40px;
+    	padding: 60px 0;
+	}
+	.mb {
+    	margin-bottom: 35px;
+	}
+	/*blog end*/
+	/*newslater start*/
+	.newslater {
+    	margin-bottom: 40px;
+    	padding: 60px 0;
+	}
+	/*newslater end*/
+	/*blog2 start*/
+	.blog2 {
+    	margin-bottom: 40px;
+	}
+	/*blog2 end*/
+	/*button start*/
+	.button {
+    	margin-bottom: 40px;
+
+	}
+	.cus-btn {
+    	padding: 16px 30px;
+	    font-size: 20px;
+	}
+	/*button end*/
+	/*footer start*/
+	footer {
+    	padding: 10px;
+	}
+	.ft-content li, .ft-icon i {
+    	font-size: 12px;
+	}
+	.cus-ft-row {
+    	margin-top: 15px;
+	}
+	.cus-flow {
+    	font-size: 12px;
+	}
+	/*footer end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*header start*/
+	.cus-logo {
+    	margin-left: 0;
+	}
+	.cus-nav {
+    	margin-right: 0;
+	}
+	/*header end*/
+	/*blog start*/
+	.mb {
+    	margin-bottom: 60px;
+	}
+	/*blog end*/
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+	
+}
